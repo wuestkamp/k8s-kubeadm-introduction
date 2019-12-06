@@ -8,7 +8,7 @@ This will boot 3 VMs:
 * worker1: 1 vCPU + 500MB memory
 * worker2: 1 vCPU + 500MB memory
 
-## run & suspend
+## run
 ```
 git clone git@github.com:wuestkamp/k8s-kubeadm-introduction.git
 cd k8s-kubeadm-introduction/cluster1
